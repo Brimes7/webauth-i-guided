@@ -1,4 +1,4 @@
-# Web Auth I Guided Project
+# Web Auth I Guided Project - By B. Rimes
 
 Guided project for **Web Auth I** Module.
 
